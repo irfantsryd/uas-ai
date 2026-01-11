@@ -35,6 +35,6 @@ Sesuai dengan kriteria penilaian, project ini mencakup lima tahap utama.
 Penyusunan file dalam repository ini mengikuti standar berikut :
 ```text
 📦 UAS AI
- ┣ 📜 dataset.csv
  ┣ 📜 README.md
+ ┣ 📜 heart.csv
  ┗ 📜 uas-praktek.ipynb
